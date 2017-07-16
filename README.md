@@ -1,6 +1,6 @@
-[![Build Status](https://api.travis-ci.org/uber/pyflame.svg?branch=master)](https://travis-ci.org/uber/pyflame) [![Docs Status](https://readthedocs.org/projects/pyflame/badge/?version=latest)](http://pyflame.readthedocs.io/en/latest/?badge=latest)
-
 # Pyflame: A Ptracing Profiler For Python
+
+[![Build Status](https://api.travis-ci.org/uber/pyflame.svg?branch=master)](https://travis-ci.org/uber/pyflame) [![Docs Status](https://readthedocs.org/projects/pyflame/badge/?version=latest)](http://pyflame.readthedocs.io/en/latest/?badge=latest)
 
 Pyflame is a unique profiling tool that
 generates [flame graphs](http://www.brendangregg.com/flamegraphs.html) for
